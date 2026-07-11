@@ -1,46 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="908" height="439" viewBox="0 0 908 439">
-<rect width="908" height="439" rx="8" fill="#161b22"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="883" height="458" viewBox="0 0 883 458">
+<rect width="883" height="458" rx="8" fill="#161b22"/>
 <style>text{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;font-size:14px;white-space:pre;}</style>
-<text x="20" y="30" fill="#c9c9c9" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#HWkkmj</text>
-<text x="399.34999999999997" y="30" xml:space="preserve"><tspan fill="#7ec9f5">akshat@github </tspan><tspan fill="#f56b6b">--------------------------------------------</tspan></text>
-<text x="20" y="49" fill="#c9c9c9" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@Hkgm||;:::,::;</text>
-<text x="399.34999999999997" y="49" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
-<text x="20" y="68" fill="#c9c9c9" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@%|,::::::::::::</text>
-<text x="399.34999999999997" y="68" xml:space="preserve"><tspan fill="#e8a03e">OS:</tspan><tspan fill="#6b6b6b"> .................................... </tspan><tspan fill="#e0e0e0">Windows 11, Linux</tspan></text>
-<text x="20" y="87" fill="#c9c9c9" xml:space="preserve">@@@@@@@@%H#@@Wm#@kgWWkH@@@@@@j:;;;;;;;;;;;</text>
-<text x="399.34999999999997" y="87" xml:space="preserve"><tspan fill="#e8a03e">Uptime:</tspan><tspan fill="#6b6b6b"> ......................................... </tspan><tspan fill="#e0e0e0">18 years</tspan></text>
-<text x="20" y="106" fill="#c9c9c9" xml:space="preserve">#Hkgkmjj;::|j;;%H|mWm|#W#%H@@k;;;::::,,,,,</text>
-<text x="399.34999999999997" y="106" xml:space="preserve"><tspan fill="#e8a03e">Host:</tspan><tspan fill="#6b6b6b"> ............................... </tspan><tspan fill="#e0e0e0">Ghaziabad, UP, India</tspan></text>
-<text x="20" y="125" fill="#c9c9c9" xml:space="preserve">;:::::::;;;;;;;gm,:|;j%###m%H:,,,:::,,,,,,</text>
-<text x="399.34999999999997" y="125" xml:space="preserve"><tspan fill="#e8a03e">Kernel:</tspan><tspan fill="#6b6b6b"> ...................... </tspan><tspan fill="#e0e0e0">Founder, RTE Reconciliation</tspan></text>
-<text x="20" y="144" fill="#c9c9c9" xml:space="preserve">;;;;;;;;;;;::::,;,`.:g#WWW|#j.,,...,,,,,,,</text>
-<text x="399.34999999999997" y="144" xml:space="preserve"><tspan fill="#e8a03e">IDE:</tspan><tspan fill="#6b6b6b"> ......................................... </tspan><tspan fill="#e0e0e0">VSCode 1.96</tspan></text>
-<text x="20" y="163" fill="#c9c9c9" xml:space="preserve">|||;;;::::::::,,:;,:;k#HHkmg:.,,,,,,::::::</text>
-<text x="399.34999999999997" y="163" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
-<text x="20" y="182" fill="#c9c9c9" xml:space="preserve">;;;;;;;;;::::::,,;|;jk##Hj``&#x27;.,,,,,,,,,::,</text>
-<text x="399.34999999999997" y="182" xml:space="preserve"><tspan fill="#e8a03e">Languages.Programming:</tspan><tspan fill="#6b6b6b"> ................... </tspan><tspan fill="#e0e0e0">Python, JS, C++</tspan></text>
-<text x="20" y="201" fill="#c9c9c9" xml:space="preserve">||;;;;;;;;;;;:&#x27;``:;gH#%%#|      ``&#x27;&#x27;..,|kg</text>
-<text x="399.34999999999997" y="201" xml:space="preserve"><tspan fill="#e8a03e">Languages.Computer:</tspan><tspan fill="#6b6b6b"> ............... </tspan><tspan fill="#e0e0e0">HTML, CSS, JSON, LaTeX</tspan></text>
-<text x="20" y="220" fill="#c9c9c9" xml:space="preserve">mjmjjjj|||;;;:,.:jWmmWWg|,`          `&#x27;,gm</text>
-<text x="399.34999999999997" y="220" xml:space="preserve"><tspan fill="#e8a03e">Languages.Real:</tspan><tspan fill="#6b6b6b"> ................. </tspan><tspan fill="#e0e0e0">English, Hindi, Mandarin</tspan></text>
-<text x="20" y="239" fill="#c9c9c9" xml:space="preserve">mmmmjjj|||;;;:;,;mH||:  &#x27;|j`           &#x27;&#x27;&#x27;</text>
-<text x="399.34999999999997" y="239" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
-<text x="20" y="258" fill="#c9c9c9" xml:space="preserve">kkkkkgggggmjmg|&#x27;jjjW#m &#x27;;;`</text>
-<text x="399.34999999999997" y="258" xml:space="preserve"><tspan fill="#e8a03e">Hobbies.Software:</tspan><tspan fill="#6b6b6b"> ......................... </tspan><tspan fill="#e0e0e0">Chess, Markets</tspan></text>
-<text x="20" y="277" fill="#c9c9c9" xml:space="preserve">WH%%@@@@Hkkgm:.,,|mWj `,:::..      `</text>
-<text x="399.34999999999997" y="277" xml:space="preserve"><tspan fill="#e8a03e">Hobbies.Hardware:</tspan><tspan fill="#6b6b6b"> ................. </tspan><tspan fill="#e0e0e0">MMA, Running, Pull-ups</tspan></text>
-<text x="20" y="296" fill="#c9c9c9" xml:space="preserve">#@@@@@@@Hm|:,..;|jj#W,:.,:,|km&#x27;  `  &#x27;`</text>
-<text x="399.34999999999997" y="296" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
-<text x="20" y="315" fill="#c9c9c9" xml:space="preserve">@@@@@k;%Hm:..&#x27;:jH#W%Hm,`.j|jWWk.``  &#x27;&#x27;</text>
-<text x="399.34999999999997" y="315" xml:space="preserve"><tspan fill="#f56b6b">- Contact ------------------------------------------------</tspan></text>
-<text x="20" y="334" fill="#c9c9c9" xml:space="preserve">@@@@#` :W::.&#x27;:WWm@@%k;,&#x27;.,:&#x27;mH#;.   `.`</text>
-<text x="399.34999999999997" y="334" xml:space="preserve"><tspan fill="#e8a03e">Email.Personal:</tspan><tspan fill="#6b6b6b"> ........................... </tspan><tspan fill="#e0e0e0">your@email.com</tspan></text>
-<text x="20" y="353" fill="#c9c9c9" xml:space="preserve">@@@%.   |j;mWk@HW@WHk:,...  ;HH:;`   &#x27;&#x27;</text>
-<text x="399.34999999999997" y="353" xml:space="preserve"><tspan fill="#e8a03e">Website:</tspan><tspan fill="#6b6b6b"> ..................................... </tspan><tspan fill="#e0e0e0">akshatb.com</tspan></text>
-<text x="20" y="372" fill="#c9c9c9" xml:space="preserve">@@@:    &#x27;jk#%%@@@|&#x27;Hm  .jg&#x27; ;W#j:`   `.`</text>
-<text x="399.34999999999997" y="372" xml:space="preserve"><tspan fill="#e8a03e">LinkedIn:</tspan><tspan fill="#6b6b6b"> .................................. </tspan><tspan fill="#e0e0e0">akshatbhaskar</tspan></text>
-<text x="20" y="391" fill="#c9c9c9" xml:space="preserve">@@m      `:g#@HH#;jHm  `;m:|k@@W|`    &#x27;&#x27;</text>
-<text x="399.34999999999997" y="391" xml:space="preserve"><tspan fill="#e8a03e">X:</tspan><tspan fill="#6b6b6b"> ........................................... </tspan><tspan fill="#e0e0e0">@yourhandle</tspan></text>
-<text x="20" y="410" fill="#c9c9c9" xml:space="preserve">@#        .k@%|ggj:Wm    .&#x27;&#x27;:H@@%.     &#x27;</text>
-<text x="399.34999999999997" y="410" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
+<text x="20" y="30" fill="#c9c9c9" xml:space="preserve">                   @@%%@</text>
+<text x="374.06" y="30" xml:space="preserve"><tspan fill="#7ec9f5">akshat@github </tspan><tspan fill="#f56b6b">--------------------------------------------</tspan></text>
+<text x="20" y="49" fill="#c9c9c9" xml:space="preserve">                %##@@@@@@@@</text>
+<text x="374.06" y="49" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
+<text x="20" y="68" fill="#c9c9c9" xml:space="preserve">               %#H##@@@@@@@%</text>
+<text x="374.06" y="68" xml:space="preserve"><tspan fill="#e8a03e">OS:</tspan><tspan fill="#6b6b6b"> .................................... </tspan><tspan fill="#e0e0e0">Windows 11, Linux</tspan></text>
+<text x="20" y="87" fill="#c9c9c9" xml:space="preserve">              @#m;jm|jW%@@@@%</text>
+<text x="374.06" y="87" xml:space="preserve"><tspan fill="#e8a03e">Uptime:</tspan><tspan fill="#6b6b6b"> ......................................... </tspan><tspan fill="#e0e0e0">18 years</tspan></text>
+<text x="20" y="106" fill="#c9c9c9" xml:space="preserve">              %k:;mj,mggWgW@@</text>
+<text x="374.06" y="106" xml:space="preserve"><tspan fill="#e8a03e">Host:</tspan><tspan fill="#6b6b6b"> ............................... </tspan><tspan fill="#e0e0e0">Delhi, India</tspan></text>
+<text x="20" y="125" fill="#c9c9c9" xml:space="preserve">               j&#x27;&#x27;,,,kWkkmj@</text>
+<text x="374.06" y="125" xml:space="preserve"><tspan fill="#e8a03e">Kernel:</tspan><tspan fill="#6b6b6b"> ...................... </tspan><tspan fill="#e0e0e0">Student</tspan></text>
+<text x="20" y="144" fill="#c9c9c9" xml:space="preserve">              :&#x27;&#x27;  &#x27;:kgmg;|W</text>
+<text x="374.06" y="144" xml:space="preserve"><tspan fill="#e8a03e">IDE:</tspan><tspan fill="#6b6b6b"> ......................................... </tspan><tspan fill="#e0e0e0">VSCode 1.96</tspan></text>
+<text x="20" y="163" fill="#c9c9c9" xml:space="preserve">               j:`..;gkgm;mW</text>
+<text x="374.06" y="163" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
+<text x="20" y="182" fill="#c9c9c9" xml:space="preserve">                m,.,|gkgjm</text>
+<text x="374.06" y="182" xml:space="preserve"><tspan fill="#e8a03e">Languages.Programming:</tspan><tspan fill="#6b6b6b"> ................... </tspan><tspan fill="#e0e0e0">Python, JS, C++</tspan></text>
+<text x="20" y="201" fill="#c9c9c9" xml:space="preserve">                ,.;mkkWkj</text>
+<text x="374.06" y="201" xml:space="preserve"><tspan fill="#e8a03e">Languages.Computer:</tspan><tspan fill="#6b6b6b"> ............... </tspan><tspan fill="#e0e0e0">HTML, CSS, JSON, LaTeX</tspan></text>
+<text x="20" y="220" fill="#c9c9c9" xml:space="preserve">               j,;|;gkkg;,</text>
+<text x="374.06" y="220" xml:space="preserve"><tspan fill="#e8a03e">Languages.Real:</tspan><tspan fill="#6b6b6b"> ................. </tspan><tspan fill="#e0e0e0">English, Hindi, Sanskrit</tspan></text>
+<text x="20" y="239" fill="#c9c9c9" xml:space="preserve">               g;Wj.,.`  ,|</text>
+<text x="374.06" y="239" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
+<text x="20" y="258" fill="#c9c9c9" xml:space="preserve">              :,j;|mg&#x27; `;: `&#x27;,j</text>
+<text x="374.06" y="258" xml:space="preserve"><tspan fill="#e8a03e">Hobbies.Software:</tspan><tspan fill="#6b6b6b"> ......................... </tspan><tspan fill="#e0e0e0">Speedcubing, Mathematics, Chess, Markets</tspan></text>
+<text x="20" y="277" fill="#c9c9c9" xml:space="preserve">          HWm. &#x27;,;mm, `..&#x27;`&#x27;.,:::j</text>
+<text x="374.06" y="277" xml:space="preserve"><tspan fill="#e8a03e">Hobbies.Hardware:</tspan><tspan fill="#6b6b6b"> ................. </tspan><tspan fill="#e0e0e0">Football, Running</tspan></text>
+<text x="20" y="296" fill="#c9c9c9" xml:space="preserve">       %Wkkm` ..:;jg ``&#x27;..&#x27;,;,,.,|:|</text>
+<text x="374.06" y="296" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
+<text x="20" y="315" fill="#c9c9c9" xml:space="preserve">     #@#Wmm, `.;j|gH;,` ...|m|,.||.,j</text>
+<text x="374.06" y="315" xml:space="preserve"><tspan fill="#f56b6b">- Contact ------------------------------------------------</tspan></text>
+<text x="20" y="334" fill="#c9c9c9" xml:space="preserve">    j,H#gg:  .|k#WHk;&#x27; `,|,;gmm|j;..;|</text>
+<text x="374.06" y="334" xml:space="preserve"><tspan fill="#e8a03e">Email.Personal:</tspan><tspan fill="#6b6b6b"> ........................... </tspan><tspan fill="#e0e0e0">bhaskarakshat22@gmail.com</tspan></text>
+<text x="20" y="353" fill="#c9c9c9" xml:space="preserve">    .,:Hm:``:kk,#%Hk,&#x27;` ````jkmjgm;,:|</text>
+<text x="374.06" y="353" xml:space="preserve"><tspan fill="#e8a03e">Website:</tspan><tspan fill="#6b6b6b"> ..................................... </tspan><tspan fill="#e0e0e0">akshatbhaskar.ninja</tspan></text>
+<text x="20" y="372" fill="#c9c9c9" xml:space="preserve">   &#x27;.::m|,jkm%#k#jjk.`&#x27;&#x27;.`  |kmm  jmjmk</text>
+<text x="374.06" y="372" xml:space="preserve"><tspan fill="#e8a03e">LinkedIn:</tspan><tspan fill="#6b6b6b"> .................................. </tspan><tspan fill="#e0e0e0">/aksbhaskar</tspan></text>
+<text x="20" y="391" fill="#c9c9c9" xml:space="preserve">  ,`.,:,;mkW#%%#j mg`  ,j, `|kkm     mg</text>
+<text x="374.06" y="391" xml:space="preserve"><tspan fill="#e8a03e">X:</tspan><tspan fill="#6b6b6b"> ........................................... </tspan><tspan fill="#e0e0e0">@aksbhaskar</tspan></text>
+<text x="20" y="410" fill="#c9c9c9" xml:space="preserve"> j`&#x27;``&#x27;.,jHH%gkW;,gg`  &#x27;;,:|W%#mH    mg</text>
+<text x="374.06" y="410" xml:space="preserve"><tspan fill="#6b6b6b">.</tspan></text>
+<text x="20" y="429" fill="#c9c9c9" xml:space="preserve"> ``   ``, @%#;|||&#x27;mg`    ` &#x27;;WHHH</text>
 </svg>
