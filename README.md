@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="profile.svg" alt="Akshat Bhaskar" />
+  <img src="profile.svg" alt="Akshat Bhaskar" width="760" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aksbhaskar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=161b22" alt="GitHub Stats" />
+  <a href="https://akshatb.com">akshatb.com</a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=32Yg4ZsAAAAJ&hl=en">Google Scholar</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aksbhaskar/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/aksbhaskar">X</a> &nbsp;·&nbsp;
+  <a href="mailto:bhaskarakshat22@gmail.com">bhaskarakshat22@gmail.com</a>
 </div>
