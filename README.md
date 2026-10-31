@@ -1,10 +1,5 @@
-<div align="center">
-<img src="assets/terminal.svg" width="860" alt="Akshat Bhaskar: achievements, research and projects">
+<img src="assets/name.svg" height="30" alt="Akshat Bhaskar"><br>
+<img src="assets/im-a.svg" height="30" alt="I’m a "><a href="https://www.lodhageniusprogramme.com/"><img src="assets/lodha-genius-scholar.svg" height="30" alt="Lodha Genius Scholar"></a><img src="assets/research-apprentice.svg" height="30" alt=" and Research Apprentice."><br>
+<a href="mailto:bhaskarakshat22@gmail.com"><img src="assets/email.svg" height="30" alt="bhaskarakshat22 [at] gmail [dot] com"></a>
 <br><br>
-<a href="https://akshatb.com"><img src="assets/akshatbcom.svg" height="34" alt="akshatb.com"></a>&nbsp;
-<a href="https://www.linkedin.com/in/aksbhaskar/"><img src="assets/linkedin.svg" height="34" alt="linkedin"></a>&nbsp;
-<a href="https://x.com/aksbhaskar"><img src="assets/x.svg" height="34" alt="x"></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=32Yg4ZsAAAAJ&amp;hl=en"><img src="assets/googlescholar.svg" height="34" alt="google-scholar"></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Akshat-Bhaskar-2"><img src="assets/researchgate.svg" height="34" alt="researchgate"></a>&nbsp;
-<a href="mailto:bhaskarakshat22@gmail.com"><img src="assets/email.svg" height="34" alt="email"></a>
-</div>
+<a href="https://akshatb.com/alternate"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pond-dark.gif"><img src="assets/pond-light.gif" width="448" alt="An ASCII koi pond. Click to visit it and feed the koi."></picture></a>
